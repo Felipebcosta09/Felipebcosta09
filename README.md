@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since 2022  <br>📚 I'm currently learning React and TypeScript  <br>🎯 Goals: Land my first remote job and continue progressing in my career</h3>
+<h4 align="left">✨ Creating bugs since 2022  <br>📚 I'm currently learning React and TypeScript  <br>🎯 Goals: Land my first remote job and continue progressing in my career</h4>
 
 ###
 
